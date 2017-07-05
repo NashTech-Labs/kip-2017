@@ -4,4 +4,12 @@ Employee Details
 | ID | Name | Email | GithubID |
 |----|------|-------|----------|
 |001    | Test     | test@knoldus.com      |test          |
+
 |2057	| Neelaksh | neelaksh.chauhan@knoldus.in	|silver-soule
+
+|2060	| Divya Dua	| divya.dua@knoldus.in	| divyadua	|
+
+|2063   | Sajit Gupta | sajit.gupta@knoldus.in  | sajitgupta1008  |
+
+|2062 | Akshansh Jain | akshansh.jain@knoldus.in | akshanshjain95 |
+
