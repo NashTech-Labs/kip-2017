@@ -13,3 +13,4 @@ Employee Details
 |2054 | Ayush Aggarwal | ayush.aggarwal@knoldus.in | Aayush-Aggarwal |
 |2053 | Ayush Tiwari | ayush.tiwari@knoldus.in | AyushTiwary |
 |2058 | Aakash Jain| aakash.jain@knoldus.in | Aakash06 |
+|2059 | Kapil Sharma | kapil.sharma@knoldus.in | kapilsharma3514 |
