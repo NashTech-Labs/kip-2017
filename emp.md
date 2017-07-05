@@ -9,3 +9,5 @@ Employee Details
 
 |2063   | Sajit Gupta | sajit.gupta@knoldus.in  | sajitgupta1008  |
 
+|2062 | Akshansh Jain | akshansh.jain@knoldus.in | akshanshjain95 |
+
