@@ -9,4 +9,6 @@ Employee Details
 |2062 | Akshansh Jain | akshansh.jain@knoldus.in | akshanshjain95 |
 |2051   |Umang Kesari| umang.kesari@knoldus.in |UmangKesari|
 |2052   | Nimit Jain | nimit.jain@knoldus.in | nimit1194  |
+|001    | Test     | test@knoldus.com      |test          |
+|2061 | Jasmine Kaur | jasmine.kaur@knoldus.in | jasmine-k |
 
