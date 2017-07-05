@@ -1,7 +1,23 @@
-# NIMIT JAIN
+ [Nimit Jain](https://www.linkedin.com/in/nimit-jain-526091b4/ "LinkedIn Profile")
 
-## Trainee Sofware Consultant
+###### Software Consultant Trainee @ Knoldus Software LLP
+---
 
+#### `Academic Qualifications`
+Degree | Institute | Year | Percentage/CGPA
+--- | --- | --- | ---
+**BTech CSE** | AKTU | 2017 | 7.0
+**Intermediate** | CBSE | 2013 | 83.6
 
-Nimit has done his BTech from JRE  Group Of Institutions which is affiliated to AKTU. He is a* Oracle  Certified Java Associate* and have good knowledge of OOPS cocepts. He has also done a course in *REDHAT Linux*.He has keen interest in Machine Learning concepts. His final year project was based on Computer Vision which aims to recognize Handwritten Digits using Python And various Machine Learning libraries.
- His hobbies are playing basketball, listening songs, travelling to new places, reading novels.
+#### `Projects`
++ Handwrittrn Digit Recognition
++ Face Detection
++ Home Automation based on IOT
++ Hovercraft
++ Linefollower using Arduino
+
+#### 'Hobbies'
++ Playing basketball
++ Listening Songs
++ Travelling to New places
++ Reading Novels
